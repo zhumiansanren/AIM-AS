@@ -16,9 +16,9 @@ Agricultural Irrigation Model - Analytical Solution
 
 输入参数说明:
 
-\[Alpha]    - 日降雨事件的平均雨量, mm
+$\Alpha$    - 日降雨事件的平均雨量, mm
 
-\[Lambda]    - 日降雨事件的发生频率, d^-1
+$\Lambda$    - 日降雨事件的发生频率, d^-1
 
 Emax - 日潜在蒸发蒸腾量, mm/d
 
@@ -44,7 +44,7 @@ si   - 灌水下限
 
 st   - 灌水上限
 
-其余为中间变量 
+其余为中间变量.
 
 
 函数说明:
